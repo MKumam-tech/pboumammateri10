@@ -1,0 +1,4 @@
+Ini adalah contoh teks yang ditulis ke dalam file.
+Nama : M Khoiru Umam 
+NPM  : 24313042 
+Prodi: Teknologi Informasi 
